@@ -5,6 +5,10 @@ using System.Threading;
 
 namespace ConsoleApp30
 {
+   
+
+
+
     
     internal class Program
     {   
@@ -15,7 +19,7 @@ namespace ConsoleApp30
         {
            string note = Console.ReadLine();
            
-            Console.WriteLine(findNote(note));
+           Console.WriteLine(findNote(note));
            
            
             
@@ -81,15 +85,6 @@ namespace ConsoleApp30
 
 
 
-
-
-
-
-
-        /*
-
-
-         */
 
 
 
